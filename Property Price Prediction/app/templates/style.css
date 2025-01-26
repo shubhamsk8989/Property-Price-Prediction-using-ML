@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    /* background-color: #f0f0f0; */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.img {
+    background: url(https://cdn.pixabay.com/photo/2016/11/18/17/46/house-1836070_1280.jpg);
+    background-size: cover;
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
